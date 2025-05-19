@@ -7,6 +7,9 @@ In addition to the implementation, a detailed research paper has been developed 
 
 This is a Streamlit application for predicting stock prices using entropy-based features.
 
+![{F30396BB-22DA-4340-893B-992C945D10F0}](https://github.com/user-attachments/assets/31cd8ef4-53e7-45e5-b78e-e45ab97d7a95)
+
+
 ## Setup Instructions
 
 1. Make sure you have Python 3.11 installed
@@ -67,4 +70,3 @@ If you encounter any issues:
 5. If you get permission errors, try running PowerShell as Administrator
 
 
-![{F30396BB-22DA-4340-893B-992C945D10F0}](https://github.com/user-attachments/assets/6ce01a48-b409-488b-a62e-a9fe879261dc)
