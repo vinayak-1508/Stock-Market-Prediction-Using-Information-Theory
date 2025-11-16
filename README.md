@@ -40,7 +40,7 @@ This is a Streamlit application for predicting stock prices using entropy-based 
      streamlit run app_streamlit.py
      ```
 
-## Using the App
+## Using the stock price prediction
 
 1. Upload a CSV file containing stock data with the following columns:
    - date
